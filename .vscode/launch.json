@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/const/const01.js"
+            "program": "${workspaceFolder}/destructuring/04.js"
         }
     ]
 }
